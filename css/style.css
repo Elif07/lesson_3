@@ -1,0 +1,28 @@
+h1 {
+   color: rgb(43, 100, 3);
+}
+#top {
+   color: rgb(109, 4, 70);
+}
+
+.title {
+   color: rgb(121, 61, 5);
+}
+.main-text {
+   color: rgb(255, 157, 127);
+}
+.main-list {
+   color: rgb(38, 235, 176);
+}
+.main-blok p{
+   color: rgb(240, 124, 47);
+}
+.text-first {
+   color: rgb(107, 130, 15);
+}
+.text-second {
+   color: rgb(64, 152, 239);
+}
+.list li {
+   color: blueviolet;
+}
